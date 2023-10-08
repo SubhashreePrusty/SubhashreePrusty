@@ -4,7 +4,7 @@
 </div>
 <div>
 <h1>:woman_technologist: About Me :</h1>
-  <p>My name is Subhashree Prusty and I'm just a noob developer.</p>
+  <p>Hey there 👋 , my name is Subhashree Prusty and I'm just a noob developer trying to learn my way around.</p>
 </div>
 <div id="badges">
   <h2>🌐 Socials</h2>
@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40px" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40px" width="50px">
 </div>
 
 <!--
