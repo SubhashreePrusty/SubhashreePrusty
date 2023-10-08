@@ -4,7 +4,7 @@
 </div>
 <div>
 <h1>:woman_technologist: About Me :</h1>
-  <p>My name is Subhashree Prusty and I'm just a noob developer</p>
+  <p>My name is Subhashree Prusty and I'm just a noob developer.</p>
 </div>
 <div id="badges">
   <h2>🌐 Socials</h2>
