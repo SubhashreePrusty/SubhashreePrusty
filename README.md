@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40px" width="50px">
 </div>
 
-[![An image of @subhashreeprusty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhashreeprusty)](https://holopin.io/@subhashreeprusty)
+[! (https://holopin.me/subhashreeprusty)](https://holopin.io/@subhashreeprusty)
 <!--
 **SubhashreePrusty/SubhashreePrusty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
