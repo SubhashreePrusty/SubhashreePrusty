@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" width="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40px" width="50px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40px" width="50px">
 </div>
 
