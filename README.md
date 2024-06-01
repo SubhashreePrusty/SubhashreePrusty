@@ -23,7 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40px" width="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="45px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="45px" width="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="55px" width="50px">
